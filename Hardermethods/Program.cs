@@ -63,7 +63,7 @@ namespace Hardermethods
         }
         public static void MultplicationTable(int a)
         {
-            
+            Console.WriteLine("Here is your Table!");
             for (int i = 1; i <= 7; i++)
             {
                 var multiplaction = i * a;
