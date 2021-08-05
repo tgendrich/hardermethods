@@ -1,0 +1,13 @@
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\bin\Debug\netcoreapp3.1\Hardermethods.exe
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\bin\Debug\netcoreapp3.1\Hardermethods.deps.json
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\bin\Debug\netcoreapp3.1\Hardermethods.runtimeconfig.json
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\bin\Debug\netcoreapp3.1\Hardermethods.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\bin\Debug\netcoreapp3.1\Hardermethods.dll
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\bin\Debug\netcoreapp3.1\Hardermethods.pdb
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.dll
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.pdb
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.genruntimeconfig.cache
+C:\Users\Thomas\source\repos\ForLoopIterationStatements\extra methods\Hardermethods\Hardermethods\obj\Debug\netcoreapp3.1\Hardermethods.csproj.AssemblyReference.cache
